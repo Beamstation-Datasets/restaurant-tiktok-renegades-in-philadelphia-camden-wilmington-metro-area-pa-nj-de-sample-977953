@@ -6,7 +6,7 @@
   "config_category": "social",
   "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
   "config_name": "Restaurant TikTok Renegades in Philadelphia-Camden-Wilmington Metro Area, PA-NJ-DE-MD, US",
-  "export_job_id": "b6c3a89d-345b-4f2d-8896-80b8cfb9f1bb",
+  "export_job_id": "705dc34b-9cf6-40c1-ba70-55e165d6836b",
   "github_org": "Beamstation-Datasets",
   "id_short": 977953,
   "location_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
@@ -18,5 +18,5 @@
   "sample_sha256": "0094af1983b0415d638ca1a56f3c4e040051f6956296d37c88a0618c2a2fe6fb",
   "sample_size_bytes": 43268,
   "total_records": 79,
-  "updated_at": "2026-04-08T05:37:28.072469+00:00"
+  "updated_at": "2026-04-15T09:41:42.509128+00:00"
 }
