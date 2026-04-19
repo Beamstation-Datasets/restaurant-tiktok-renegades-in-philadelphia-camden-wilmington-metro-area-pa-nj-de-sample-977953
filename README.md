@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 79 records |
 | Free sample size | 7 records (8.86%) |
-| Last export | 2026-04-08T05:37:28.072469+00:00 |
+| Last export | 2026-04-15T09:41:42.509128+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-philadelphia-camden-wilmington-metro-area-pa-nj-de-sample-977953/releases/download/sample-latest/beamstation_977953_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
