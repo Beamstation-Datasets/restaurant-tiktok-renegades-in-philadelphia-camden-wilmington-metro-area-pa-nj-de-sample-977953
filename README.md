@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Philadelphia-Camden-Wilmington Metro Area, PA-NJ-DE-MD, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `977953` |
 | Location | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |
 | Category | Restaurants |
-| Full dataset size | 79 records |
-| Free sample size | 7 records (8.86%) |
-| Last export | 2026-04-15T09:41:42.509128+00:00 |
+| Full dataset size | 68 records |
+| Free sample size | 6 records (8.82%) |
+| Last export | 2026-04-22T17:03:06.601440+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-philadelphia-camden-wilmington-metro-area-pa-nj-de-sample-977953/releases/download/sample-latest/beamstation_977953_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
