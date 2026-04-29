@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd8bfeeb-27f9-4b8c-a206-fb41952867a5",
+  "export_job_id": "cc6b7704-176e-4ca3-98f6-719e9f3b1bf2",
   "id_short": 977953,
-  "published_at": "2026-04-23T07:19:39Z",
+  "published_at": "2026-04-29T19:49:08Z",
   "repo_name": "restaurant-tiktok-renegades-in-philadelphia-camden-wilmington-metro-area-pa-nj-de-sample-977953",
   "sample_asset_name": "beamstation_977953_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/977953/beamstation_977953_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "432973edcd6f89dac8c6b5e07d2f1589efde35c1370bca809d784a057ec709a6",
-  "sample_size_bytes": 39240,
-  "total_records": 68
+  "sample_records": 7,
+  "sample_sha256": "d6eab6cc1ea93958b6eb8a6044f4e7d0fd5668cc3faaad622fa0401efcd53229",
+  "sample_size_bytes": 41594,
+  "total_records": 78
 }
